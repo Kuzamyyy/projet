@@ -1,0 +1,17 @@
+body {
+    
+    font-family: 'Burbank Big', sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: url(https://i.pinimg.com/originals/1e/ef/c5/1eefc5567dc5c55f67ef6849b9235582.jpg) no-repeat;
+}
+
+h1 {
+    color: white;
+    font-family: 'Burbank Big', sans-serif;
+}
+
+div {
+    justify-content: initial;
+}
